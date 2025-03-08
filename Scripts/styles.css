@@ -1,0 +1,27 @@
+.portfolio-table {
+    width: 50%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    
+}
+
+tr {
+    border-bottom: 2px solid black;
+}
+
+.portfolio-heading {
+    background-color: #9e9f9e;
+}
+
+th {
+    text-align: center;
+    border: 2px solid rgb(23, 22, 22);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.portfolio-text {
+    color: rgb(48, 48, 53);
+}
